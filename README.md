@@ -25,8 +25,3 @@ A Role-Aware Semantic Vector Framework that analyzes text by combining syntactic
 3.  **語義豐富化**：將句法和語義分析的結果合併，提供一份對句子結構及其詞彙在上下文中的意義的詳細分析。
 
 這個過程讓我們不僅能理解句子的內容，更能從獨特的「角色感知」視角，理解每個詞是如何為其整體意義做出貢獻的。
-
-
-
-```
-```
