@@ -1,0 +1,322 @@
+{
+  "1. Abstract": {
+    "head": {
+      "pos": ["abstract", "conceptual", "theoretical", "intangible", "philosophical", "metaphysical", "symbolic", "notional", "ideal", "spiritual", "intellectual", "imaginary", "ethereal", "speculative", "academic"],
+      "neg": ["concrete", "physical", "tangible", "real", "material", "solid", "palpable", "actual", "corporeal", "objective", "visible", "factual", "definite", "observable", "substantial"]
+    },
+    "modifier": {
+      "pos": ["idea", "concept", "theory", "thought", "feeling", "emotion", "love", "justice", "freedom", "dream", "principle", "notion", "quality", "value", "system"],
+      "neg": ["rock", "table", "chair", "tree", "car", "water", "body", "hand", "book", "computer", "building", "apple", "dog", "tool", "machine"]
+    }
+  },
+  "2. Man-made": {
+    "head": {
+      "pos": ["natural", "organic", "wild", "pristine", "raw", "earthly", "geological", "botanical", "cosmic", "atmospheric", "oceanic", "untouched", "elemental", "native", "endemic"],
+      "neg": ["artificial", "synthetic", "manmade", "manufactured", "constructed", "engineered", "fabricated", "industrial", "mechanical", "digital", "virtual", "urban", "architectural", "processed", "cultured"]
+    },
+    "modifier": {
+      "pos": ["forest", "river", "mountain", "ocean", "animal", "plant", "flower", "star", "cloud", "storm", "volcano", "desert", "planet", "mineral", "dna"],
+      "neg": ["city", "building", "computer", "car", "road", "bridge", "factory", "plastic", "software", "robot", "weapon", "money", "clothing", "furniture", "book"]
+    }
+  },
+  "3. Temporal": {
+    "head": {
+      "pos": ["temporal", "historical", "chronological", "fleeting", "momentary", "transient", "perpetual", "eternal", "future", "past", "ancient", "modern", "temporary", "ongoing", "periodic"],
+      "neg": ["spatial", "static", "permanent", "timeless", "unchanging", "constant", "fixed", "stationary", "endless", "immutable", "lasting", "structural", "physical", "locational", "geometric"]
+    },
+    "modifier": {
+      "pos": ["moment", "minute", "hour", "day", "week", "month", "year", "decade", "century", "era", "age", "period", "event", "history", "schedule"],
+      "neg": ["space", "location", "object", "place", "area", "structure", "point", "thing", "matter", "substance", "form", "shape", "color", "texture", "design"]
+    }
+  },
+  "4. Locational": {
+    "head": {
+      "pos": ["locational", "spatial", "geographic", "regional", "local", "topographical", "environmental", "scenic", "remote", "nearby", "adjacent", "distant", "surrounding", "directional", "positional"],
+      "neg": ["abstract", "conceptual", "temporal", "thematic", "topical", "ideological", "emotional", "universal", "general", "nonphysical", "absolute", "unrelated", "irrelevant", "random", "chronological"]
+    },
+    "modifier": {
+      "pos": ["city", "country", "region", "area", "place", "location", "site", "venue", "spot", "address", "building", "room", "park", "street", "continent"],
+      "neg": ["time", "idea", "concept", "feeling", "event", "moment", "theory", "topic", "subject", "emotion", "number", "color", "sound", "smell", "taste"]
+    }
+  },
+  "5. Size": {
+    "head": {
+      "pos": ["large", "huge", "big", "massive", "enormous", "vast", "gigantic", "immense", "colossal", "grand", "sizable", "substantial", "great", "monumental", "spacious"],
+      "neg": ["small", "tiny", "little", "minuscule", "minute", "compact", "microscopic", "miniature", "petite", "slight", "cramped", "narrow", "puny", "dwarf", "insignificant"]
+    },
+    "modifier": {
+      "pos": ["elephant", "whale", "skyscraper", "ocean", "galaxy", "mountain", "giant", "stadium", "continent", "universe", "empire", "mansion", "titan", "behemoth", "leviathan"],
+      "neg": ["ant", "atom", "mouse", "speck", "grain", "pebble", "shrimp", "molecule", "particle", "crumb", "mite", "gnat", "droplet", "seed", "pixel"]
+    }
+  },
+  "6. Temperature": {
+    "head": {
+      "pos": ["hot", "warm", "boiling", "scalding", "fiery", "tropical", "heated", "feverish", "torrid", "scorching", "sizzling", "thermal", "glowing", "blazing", "burning"],
+      "neg": ["cold", "cool", "freezing", "icy", "frigid", "chilly", "arctic", "frosty", "glacial", "wintry", "numb", "polar", "unheated", "refrigerated", "shivery"]
+    },
+    "modifier": {
+      "pos": ["fire", "sun", "summer", "lava", "desert", "sauna", "fever", "engine", "oven", "steam", "plasma", "chili", "furnace", "flame", "star"],
+      "neg": ["ice", "winter", "snow", "glacier", "refrigerator", "wind", "shadow", "night", "basement", "metal", "marble", "death", "fear", "silence", "pole"]
+    }
+  },
+  "7. Weight": {
+    "head": {
+      "pos": ["heavy", "weighty", "massive", "dense", "hefty", "ponderous", "cumbersome", "burdensome", "substantial", "loaded", "solid", "crushing", "leaden", "unwieldy", "oppressive"],
+      "neg": ["light", "lightweight", "weightless", "airy", "ethereal", "feathery", "delicate", "buoyant", "flimsy", "subtle", "nimble", "unburdened", "gossamer", "hollow", "insubstantial"]
+    },
+    "modifier": {
+      "pos": ["lead", "gold", "stone", "anchor", "truck", "boulder", "dumbbell", "metal", "iron", "concrete", "burden", "responsibility", "gravity", "evidence", "machinery"],
+      "neg": ["feather", "air", "helium", "dust", "fluff", "foam", "bubble", "cloud", "spirit", "dream", "whisper", "glance", "thought", "idea", "pollen"]
+    }
+  },
+  "8. Durability": {
+    "head": {
+      "pos": ["durable", "sturdy", "robust", "strong", "resilient", "tough", "solid", "lasting", "permanent", "unbreakable", "rugged", "hardy", "stable", "reinforced", "enduring"],
+      "neg": ["fragile", "delicate", "brittle", "weak", "flimsy", "vulnerable", "frail", "breakable", "ephemeral", "transient", "temporary", "shaky", "unstable", "tenuous", "disposable"]
+    },
+    "modifier": {
+      "pos": ["steel", "diamond", "concrete", "oak", "titanium", "bedrock", "fortress", "foundation", "constitution", "tradition", "commitment", "friendship", "loyalty", "vow", "pact"],
+      "neg": ["glass", "crystal", "porcelain", "ice", "flower", "bubble", "dream", "moment", "truce", "ceasefire", "promise", "illusion", "gossamer", "web", "eggshell"]
+    }
+  },
+  "9. Visual": {
+    "head": {
+      "pos": ["visual", "visible", "colorful", "bright", "vivid", "clear", "graphic", "scenic", "picturesque", "luminous", "shining", "apparent", "distinct", "observable", "illustrative"],
+      "neg": ["invisible", "unseen", "hidden", "concealed", "nonvisual", "dark", "obscure", "formless", "shapeless", "imperceptible", "unnoticeable", "secret", "covert", "internal", "abstract"]
+    },
+    "modifier": {
+      "pos": ["image", "picture", "color", "light", "shape", "pattern", "design", "view", "sight", "scene", "spectrum", "reflection", "diagram", "film", "painting"],
+      "neg": ["sound", "noise", "thought", "idea", "feeling", "smell", "taste", "concept", "theory", "emotion", "number", "time", "rule", "law", "process"]
+    }
+  },
+  "10. Auditory": {
+    "head": {
+      "pos": ["auditory", "loud", "noisy", "resonant", "deafening", "booming", "thundering", "vocal", "melodious", "sonorous", "audible", "clear", "ringing", "piercing", "vibrant"],
+      "neg": ["silent", "quiet", "inaudible", "hushed", "still", "mute", "soundless", "noiseless", "faint", "muffled", "whispered", "unspoken", "tacit", "calm", "serene"]
+    },
+    "modifier": {
+      "pos": ["sound", "noise", "music", "voice", "scream", "shout", "explosion", "thunder", "alarm", "whistle", "melody", "rhythm", "tone", "frequency", "concert"],
+      "neg": ["image", "light", "silence", "stillness", "idea", "thought", "vision", "picture", "color", "smell", "taste", "touch", "feeling", "texture", "shape"]
+    }
+  },
+  "11. Tactile": {
+    "head": {
+      "pos": ["tactile", "physical", "tangible", "textured", "rough", "smooth", "sharp", "soft", "hard", "coarse", "grainy", "palpable", "solid", "sensible", "corporeal"],
+      "neg": ["intangible", "abstract", "untouchable", "ethereal", "virtual", "conceptual", "spiritual", "immaterial", "nonphysical", "gaseous", "formless", "theoretical", "emotional", "mental", "imaginary"]
+    },
+    "modifier": {
+      "pos": ["skin", "hand", "surface", "texture", "fabric", "stone", "wood", "sand", "velvet", "silk", "massage", "embrace", "pressure", "vibration", "contact"],
+      "neg": ["idea", "thought", "dream", "memory", "sound", "light", "feeling", "emotion", "concept", "theory", "rule", "law", "time", "space", "void"]
+    }
+  },
+  "12. Olfactory": {
+    "head": {
+      "pos": ["olfactory", "aromatic", "fragrant", "scented", "pungent", "odorous", "perfumed", "redolent", "smelly", "strong", "rich", "heady", "sweet", "musky", "piquant"],
+      "neg": ["odorless", "unscented", "neutral", "faint", "subtle", "clean", "fresh", "pure", "sterile", "sanitized", "deodorized", "insipid", "bland", "plain", "imperceptible"]
+    },
+    "modifier": {
+      "pos": ["smell", "scent", "aroma", "fragrance", "perfume", "odor", "stench", "incense", "flower", "coffee", "spice", "smoke", "gas", "perfumery", "potpourri"],
+      "neg": ["sound", "image", "color", "idea", "thought", "silence", "stillness", "touch", "texture", "shape", "number", "concept", "theory", "rule", "law"]
+    }
+  },
+  "13. Gustatory": {
+    "head": {
+      "pos": ["gustatory", "flavorful", "tasty", "delicious", "savory", "sweet", "sour", "bitter", "spicy", "rich", "piquant", "zesty", "palatable", "delectable", "succulent"],
+      "neg": ["tasteless", "bland", "insipid", "plain", "unflavored", "mild", "neutral", "inedible", "unpalatable", "flavorless", "flat", "dull", "dry", "watery", "weak"]
+    },
+    "modifier": {
+      "pos": ["taste", "flavor", "food", "cuisine", "dish", "meal", "spice", "herb", "fruit", "wine", "chocolate", "cheese", "sauce", "seasoning", "condiment"],
+      "neg": ["sound", "color", "smell", "touch", "idea", "thought", "sight", "image", "texture", "concept", "theory", "rule", "law", "number", "silence"]
+    }
+  },
+  "14. Social": {
+    "head": {
+      "pos": ["social", "communal", "public", "collective", "interactive", "gregarious", "sociable", "popular", "friendly", "relational", "interpersonal", "cooperative", "collaborative", "civic", "group"],
+      "neg": ["solitary", "isolated", "private", "individual", "lonely", "reclusive", "antisocial", "secluded", "unsociable", "hermitic", "independent", "autonomous", "separate", "detached", "introverted"]
+    },
+    "modifier": {
+      "pos": ["friend", "party", "meeting", "community", "group", "family", "team", "network", "club", "gathering", "conversation", "interaction", "relationship", "society", "culture"],
+      "neg": ["solitude", "isolation", "individual", "loner", "hermit", "self", "privacy", "seclusion", "thought", "idea", "book", "desk", "computer", "wilderness", "desert"]
+    }
+  },
+  "15. Linguistic": {
+    "head": {
+      "pos": ["linguistic", "verbal", "communicative", "spoken", "written", "expressive", "eloquent", "rhetorical", "grammatical", "syntactic", "semantic", "phonetic", "lexical", "narrative", "discursive"],
+      "neg": ["nonverbal", "unspoken", "tacit", "silent", "physical", "behavioral", "gestural", "inarticulate", "mute", "wordless", "intuitive", "instinctive", "mathematical", "visual", "musical"]
+    },
+    "modifier": {
+      "pos": ["word", "language", "speech", "sentence", "text", "discourse", "conversation", "dialogue", "statement", "message", "communication", "expression", "grammar", "syntax", "semantics"],
+      "neg": ["action", "deed", "gesture", "thought", "feeling", "emotion", "image", "sound", "music", "number", "equation", "object", "thing", "event", "process"]
+    }
+  },
+  "16. Economic": {
+    "head": {
+      "pos": ["economic", "financial", "commercial", "monetary", "fiscal", "industrial", "mercantile", "profitable", "lucrative", "capitalist", "corporate", "business", "trade", "market", "wealthy"],
+      "neg": ["noneconomic", "social", "cultural", "personal", "emotional", "artistic", "charitable", "voluntary", "free", "natural", "spiritual", "philosophical", "recreational", "familial", "academic"]
+    },
+    "modifier": {
+      "pos": ["economy", "market", "business", "trade", "finance", "money", "capital", "wealth", "industry", "commerce", "price", "cost", "profit", "investment", "stock"],
+      "neg": ["art", "music", "love", "friendship", "nature", "health", "happiness", "family", "hobby", "sport", "religion", "science", "philosophy", "emotion", "feeling"]
+    }
+  },
+  "17. Political": {
+    "head": {
+      "pos": ["political", "governmental", "civic", "public", "partisan", "ideological", "diplomatic", "legislative", "electoral", "stately", "official", "sovereign", "national", "federal", "bureaucratic"],
+      "neg": ["apolitical", "nonpolitical", "personal", "private", "social", "cultural", "economic", "artistic", "scientific", "neutral", "impartial", "individual", "anarchic", "domestic", "unaffiliated"]
+    },
+    "modifier": {
+      "pos": ["government", "policy", "election", "party", "state", "nation", "ideology", "power", "system", "campaign", "debate", "diplomacy", "legislation", "revolution", "republic"],
+      "neg": ["family", "friend", "hobby", "art", "science", "nature", "food", "music", "sport", "love", "feeling", "thought", "business", "work", "vacation"]
+    }
+  },
+  "18. Legal": {
+    "head": {
+      "pos": ["legal", "lawful", "juridical", "judicial", "forensic", "legitimate", "constitutional", "statutory", "regulatory", "official", "valid", "binding", "enforceable", "codified", "sanctioned"],
+      "neg": ["illegal", "unlawful", "illicit", "criminal", "extralegal", "unauthorized", "prohibited", "banned", "informal", "unofficial", "void", "invalid", "anarchic", "chaotic", "unregulated"]
+    },
+    "modifier": {
+      "pos": ["law", "rule", "regulation", "statute", "act", "code", "ordinance", "precedent", "case", "court", "judge", "attorney", "contract", "justice", "system"],
+      "neg": ["chaos", "anarchy", "nature", "custom", "tradition", "opinion", "feeling", "emotion", "art", "music", "science", "friendship", "love", "mercy", "grace"]
+    }
+  },
+  "19. Professional": {
+    "head": {
+      "pos": ["professional", "formal", "official", "corporate", "businesslike", "expert", "skilled", "qualified", "competent", "specialized", "academic", "technical", "clinical", "vocational", "certified"],
+      "neg": ["amateur", "casual", "informal", "hobbyist", "unprofessional", "unskilled", "layman", "personal", "recreational", "leisurely", "relaxed", "unofficial", "unqualified", "inexperienced", "novice"]
+    },
+    "modifier": {
+      "pos": ["career", "job", "work", "profession", "occupation", "business", "field", "industry", "practice", "duty", "office", "conduct", "ethics", "standard", "development"],
+      "neg": ["hobby", "pastime", "leisure", "vacation", "home", "family", "life", "play", "fun", "game", "rest", "relaxation", "art", "passion", "friendship"]
+    }
+  },
+  "20. Familial": {
+    "head": {
+      "pos": ["familial", "parental", "maternal", "paternal", "fraternal", "sibling", "domestic", "hereditary", "genetic", "kin", "ancestral", "tribal", "clannish", "intimate", "consanguine"],
+      "neg": ["unrelated", "public", "social", "professional", "formal", "impersonal", "distant", "foreign", "communal", "civic", "individual", "solitary", "acquired", "learned", "official"]
+    },
+    "modifier": {
+      "pos": ["family", "mother", "father", "parent", "child", "son", "daughter", "brother", "sister", "sibling", "home", "household", "kinship", "lineage", "ancestry"],
+      "neg": ["friend", "colleague", "coworker", "stranger", "acquaintance", "office", "company", "public", "society", "government", "team", "club", "group", "state", "nation"]
+    }
+  },
+  "21. Mental": {
+    "head": {
+      "pos": ["mental", "cognitive", "intellectual", "psychological", "rational", "cerebral", "thoughtful", "introspective", "analytical", "logical", "abstract", "conceptual", "noetic", "subjective", "conscious"],
+      "neg": ["physical", "bodily", "corporeal", "somatic", "instinctive", "reflexive", "automatic", "behavioral", "sensory", "motor", "brute", "material", "external", "objective", "unconscious"]
+    },
+    "modifier": {
+      "pos": ["thought", "idea", "mind", "intellect", "cognition", "reason", "logic", "memory", "consciousness", "awareness", "psyche", "concept", "theory", "process", "calculation"],
+      "neg": ["body", "action", "reflex", "instinct", "sensation", "movement", "object", "force", "energy", "matter", "substance", "stimulus", "response", "behavior", "act"]
+    }
+  },
+  "22. Emotional_Positive": {
+    "head": {
+      "pos": ["happy", "joyful", "positive", "loving", "hopeful", "optimistic", "cheerful", "ecstatic", "elated", "blissful", "content", "pleasurable", "uplifting", "serene", "grateful"],
+      "neg": ["sad", "unhappy", "negative", "neutral", "apathetic", "miserable", "depressing", "tragic", "painful", "joyless", "bleak", "dismal", "somber", "gloomy", "melancholy"]
+    },
+    "modifier": {
+      "pos": ["love", "joy", "happiness", "hope", "optimism", "pleasure", "bliss", "ecstasy", "serenity", "gratitude", "excitement", "delight", "peace", "fun", "laughter"],
+      "neg": ["sadness", "anger", "fear", "pain", "grief", "despair", "sorrow", "misery", "anxiety", "loneliness", "depression", "tragedy", "suffering", "agony", "dread"]
+    }
+  },
+  "23. Emotional_Negative": {
+    "head": {
+      "pos": ["sad", "angry", "fearful", "negative", "painful", "tragic", "depressing", "anxious", "miserable", "sorrowful", "gloomy", "dreadful", "hateful", "furious", "terrifying"],
+      "neg": ["happy", "joyful", "positive", "neutral", "calm", "peaceful", "pleasurable", "content", "hopeful", "loving", "serene", "tranquil", "comforting", "reassuring", "safe"]
+    },
+    "modifier": {
+      "pos": ["fear", "anger", "sadness", "pain", "grief", "hate", "rage", "terror", "anxiety", "despair", "suffering", "tragedy", "sorrow", "depression", "misery"],
+      "neg": ["joy", "love", "happiness", "peace", "hope", "pleasure", "comfort", "serenity", "relief", "safety", "security", "calm", "contentment", "bliss", "delight"]
+    }
+  },
+  "24. Violent": {
+    "head": {
+      "pos": ["violent", "aggressive", "brutal", "fierce", "destructive", "savage", "hostile", "deadly", "lethal", "ferocious", "murderous", "turbulent", "chaotic", "forceful", "combative"],
+      "neg": ["peaceful", "calm", "nonviolent", "gentle", "serene", "tranquil", "passive", "safe", "harmless", "placid", "mild", "tame", "constructive", "orderly", "harmonious"]
+    },
+    "modifier": {
+      "pos": ["war", "attack", "conflict", "violence", "crime", "battle", "assault", "invasion", "riot", "explosion", "storm", "struggle", "fight", "rage", "force"],
+      "neg": ["peace", "truce", "ceasefire", "dialogue", "negotiation", "harmony", "calm", "serenity", "stillness", "agreement", "treaty", "discussion", "cooperation", "understanding", "embrace"]
+    }
+  },
+  "25. Functionality": {
+    "head": {
+      "pos": ["functional", "practical", "utilitarian", "useful", "effective", "efficient", "purposeful", "pragmatic", "operative", "working", "serviceable", "applied", "handy", "instrumental", "versatile"],
+      "neg": ["ornamental", "decorative", "aesthetic", "useless", "nonfunctional", "dysfunctional", "impractical", "symbolic", "ceremonial", "purposeless", "ineffective", "theoretical", "superficial", "trivial", "stylistic"]
+    },
+    "modifier": {
+      "pos": ["tool", "machine", "device", "instrument", "utility", "appliance", "gadget", "engine", "system", "mechanism", "software", "code", "algorithm", "method", "technique"],
+      "neg": ["decoration", "ornament", "art", "sculpture", "painting", "poem", "music", "symbol", "ritual", "ceremony", "trinket", "frill", "embellishment", "luxury", "style"]
+    }
+  },
+  "26. Importance": {
+    "head": {
+      "pos": ["important", "crucial", "vital", "essential", "significant", "critical", "pivotal", "major", "fundamental", "paramount", "key", "consequential", "substantial", "momentous", "indispensable"],
+      "neg": ["unimportant", "trivial", "minor", "insignificant", "secondary", "peripheral", "negligible", "frivolous", "inconsequential", "marginal", "irrelevant", "superficial", "petty", "expendable", "inessential"]
+    },
+    "modifier": {
+      "pos": ["decision", "factor", "role", "issue", "element", "part", "point", "moment", "event", "discovery", "breakthrough", "milestone", "principle", "foundation", "cornerstone"],
+      "neg": ["detail", "trifle", "minutia", "footnote", "aside", "distraction", "incident", "triviality", "formality", "technicality", "nuance", "gossip", "rumor", "tangent", "frill"]
+    }
+  },
+  "27. Formality": {
+    "head": {
+      "pos": ["formal", "official", "ceremonial", "proper", "strict", "rigid", "conventional", "protocolary", "stately", "dignified", "solemn", "academic", "bureaucratic", "professional", "structured"],
+      "neg": ["informal", "casual", "relaxed", "unofficial", "unceremonious", "colloquial", "conversational", "spontaneous", "impromptu", "laidback", "easygoing", "unstructured", "flexible", "familiar", "everyday"]
+    },
+    "modifier": {
+      "pos": ["ceremony", "gala", "banquet", "meeting", "conference", "document", "attire", "language", "protocol", "etiquette", "institution", "procedure", "address", "title", "uniform"],
+      "neg": ["chat", "conversation", "party", "gathering", "hangout", "jeans", "slang", "nickname", "joke", "vibe", "mood", "atmosphere", "barbecue", "picnic", "get-together"]
+    }
+  },
+  "28. Certainty": {
+    "head": {
+      "pos": ["certain", "definite", "sure", "clear", "unambiguous", "conclusive", "absolute", "confirmed", "established", "proven", "undeniable", "irrefutable", "factual", "indisputable", "positive"],
+      "neg": ["uncertain", "ambiguous", "vague", "unclear", "doubtful", "questionable", "speculative", "hypothetical", "tentative", "provisional", "debatable", "dubious", "unsure", "indefinite", "equivocal"]
+    },
+    "modifier": {
+      "pos": ["fact", "proof", "evidence", "certainty", "reality", "truth", "confirmation", "guarantee", "law", "principle", "axiom", "dogma", "verdict", "conclusion", "result"],
+      "neg": ["doubt", "question", "possibility", "chance", "maybe", "perhaps", "theory", "hypothesis", "speculation", "ambiguity", "vagueness", "uncertainty", "guess", "estimate", "suggestion"]
+    }
+  },
+  "29. Complexity": {
+    "head": {
+      "pos": ["complex", "intricate", "complicated", "sophisticated", "multifaceted", "elaborate", "involved", "convoluted", "difficult", "challenging", "profound", "deep", "labyrinthine", "detailed", "nuanced"],
+      "neg": ["simple", "easy", "uncomplicated", "straightforward", "basic", "elementary", "rudimentary", "plain", "clear", "obvious", "trivial", "superficial", "minimal", "direct", "intuitive"]
+    },
+    "modifier": {
+      "pos": ["system", "problem", "network", "equation", "algorithm", "relationship", "situation", "issue", "machinery", "organism", "brain", "society", "language", "symphony", "tapestry"],
+      "neg": ["line", "dot", "rule", "idea", "answer", "solution", "tool", "key", "number", "word", "step", "unit", "atom", "brick", "note"]
+    }
+  },
+  "30. Aesthetic_Value": {
+    "head": {
+      "pos": ["beautiful", "aesthetic", "lovely", "gorgeous", "stunning", "exquisite", "artistic", "elegant", "charming", "picturesque", "harmonious", "pleasing", "sublime", "graceful", "magnificent"],
+      "neg": ["ugly", "unappealing", "hideous", "grotesque", "repulsive", "unaesthetic", "plain", "drab", "crude", "jarring", "dissonant", "offensive", "monstrous", "unsightly", "displeasing"]
+    },
+    "modifier": {
+      "pos": ["art", "music", "poetry", "beauty", "design", "sculpture", "painting", "symphony", "landscape", "sunset", "flower", "gem", "palace", "fashion", "architecture"],
+      "neg": ["trash", "garbage", "junk", "waste", "filth", "ugliness", "mess", "chaos", "noise", "discord", "blight", "stain", "scar", "eyesore", "slum"]
+    }
+  },
+  "31. Pace": {
+    "head": {
+      "pos": ["fast", "quick", "rapid", "swift", "speedy", "brisk", "hasty", "sudden", "instantaneous", "accelerated", "energetic", "dynamic", "agile", "nimble", "urgent"],
+      "neg": ["slow", "gradual", "leisurely", "plodding", "sluggish", "deliberate", "measured", "static", "stationary", "unhurried", "patient", "lingering", "crawling", "delayed", "languid"]
+    },
+    "modifier": {
+      "pos": ["cheetah", "racecar", "bullet", "jet", "light", "internet", "growth", "change", "reaction", "sprint", "flash", "heartbeat", "thought", "rumor", "fashion"],
+      "neg": ["turtle", "sloth", "glacier", "evolution", "process", "growth", "deliberation", "waiting", "queue", "bureaucracy", "history", "geology", "aging", "healing", "meditation"]
+    }
+  },
+  "32. Risk": {
+    "head": {
+      "pos": ["risky", "dangerous", "hazardous", "perilous", "unsafe", "treacherous", "precarious", "volatile", "unstable", "threatening", "insecure", "vulnerable", "chancy", "speculative", "adventurous"],
+      "neg": ["safe", "secure", "protected", "harmless", "risk-free", "certain", "guaranteed", "stable", "reliable", "dependable", "sound", "proven", "cautious", "sheltered", "benign"]
+    },
+    "modifier": {
+      "pos": ["risk", "danger", "hazard", "threat", "peril", "gamble", "venture", "adventure", "investment", "bet", "speculation", "uncertainty", "crisis", "emergency", "war"],
+      "neg": ["safety", "security", "certainty", "guarantee", "protection", "refuge", "sanctuary", "haven", "insurance", "assurance", "stability", "routine", "procedure", "protocol", "bond"]
+    }
+  }
+}
